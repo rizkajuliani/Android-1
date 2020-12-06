@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bucots</string>
+    <string name="profile_nama">Rizka Juliani</string>
+    <string name="profile_username">rzkajliani</string>
+    <string name="profile_follow_count">15</string>
+    <string name="profile_postingan">Postingan</string>
+    <string name="profile_follow_button">Follow</string>
+    <string name="teknik_informatika">Teknik Informatika</string>
+    <string name="ikuti">IKUTI</string>
+    <string name="profile_pengikut">Pengikut</string>
+    <string name="jumlah_pengikut_10_7jt">10,7jt</string>
+    <string name="jumlah_mengikuti">0</string>
+    <string name="profile_mengikuti">Mengikuti</string>
+    <string name="button_kirim_pesan">KIRIM PESAN</string>
+    <string name="lbl_todo">TODO</string>
+</resources>
